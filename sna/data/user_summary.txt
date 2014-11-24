@@ -1,0 +1,1 @@
+users:73568 max_recipes:568 mean_services:2 max_services:93 mean_recipes_per_service:0.73
